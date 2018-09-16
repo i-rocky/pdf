@@ -15,8 +15,8 @@
 	{
 		"gears/di": "*",
 		"i-rocky/string": "dev-master",
-		"symfony/process": "2.*",
-		"symfony/filesystem": "2.*",
+		"symfony/process": "^4.1",
+		"symfony/filesystem": "^4.1",
 		"jakoch/phantomjs-installer": "1.9.8"
 	},
 	"repositories": [
