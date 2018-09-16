@@ -1,6 +1,6 @@
 The Pdf Gear
 ================================================================================
-Stolen from https://github.com/phpgearbox/string.git
+Stolen from https://github.com/phpgearbox/pdf.git
 
 This project started life as a DOCX templating engine. It has now envolved to
 also support converting HTML to PDF using a headless version of _webkit_,
